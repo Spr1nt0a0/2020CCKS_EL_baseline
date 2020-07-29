@@ -52,4 +52,4 @@ sh ./script/train.sh
 
 sh ./script/predict.sh
 
-预测结果将以与原始数据集的相同的格式写入json文件（与最终官方评估格式相同）。预测结果路径为./data/generated/test_pred.json
+预测结果将以与原始数据集的相同的格式写入json文件。预测结果路径为./data/generated/test_pred.json
