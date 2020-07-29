@@ -1,0 +1,1 @@
+ERNIE_1.0_max-len-512 model put here!
